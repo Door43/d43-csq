@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csq:home|Door43 (csq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csq|d43-csq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csq/archive/master.zip|d43-csq.zip]]
+
+**Recent Changes**
+{{changes>ns = csq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csq|Ethnologue data]]
+
